@@ -1,0 +1,38 @@
+{
+  "name": "alphat-new-generation",
+  "version": "0.6.9",
+  "description": "LINE",
+  "main": "./src/main.js",
+  "scripts": {
+    "start": "npm run startx",
+    "startx": "node ./src/bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/m.rakha.f/alphat-new-generation.git"
+  },
+  "author": "GoogleX <haxor-133@protonmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "qrcode-terminal": "^0.11.0",
+    "node-bignumber": "^1.2.1",
+    "utf8": "^2.1.1"
+  },
+  "dependencies": {
+    "bluebird": "^3.3.4",
+    "thrift": "^0.10.0",
+    "thrift-http": "^1.0.1",
+    "unirest": "^0.5.0",
+    "request": "^2.0.0",
+    "request-promise": "^2.0.0",
+    "webp-converter": "^2.1.6",
+    "moment": "^2.18.1"
+  },
+  "bugs": {
+    "url": "https://gitlab.com/m.rakha.f/alphat-new-generation/issues"
+  },
+  "homepage": "https://gitlab.com/m.rakha.f/alphat-new-generation#README",
+  "keywords": [
+    "line"
+  ]
+}
