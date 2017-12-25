@@ -10,10 +10,12 @@
 -check your nodejs version node -v upgrade nodejs
 
 -How to run bot for the first time ?
+
 -git clone https://github.com/CarTooonn/alphat-third
 -cd alphat-third && npm install
 -insert your admin mid in main.js
 -npm start
+
 -IMPORTANT
 -PLEASE DO npm i FOR THIS UPDATE -> #27/10/2017
 
