@@ -1,31 +1,31 @@
 # alphat-third
-Forked version of LineAlphat JS #DEV #22/12/2017 #18PM 
-LineAlphat -> https://github.com/alfathdirk/LineAlphatJS
+-Forked version of LineAlphat JS #DEV #22/12/2017 #18PM 
+-LineAlphat -> https://github.com/alfathdirk/LineAlphatJS
 
-Status: Very Good
+-Status: Very Good
 
-Installing Node.js
-pkg install nodejs-current or yum install nodejs-current
-require node >= v8.x.x
-check your nodejs version node -v upgrade nodejs
+-Installing Node.js
+-pkg install nodejs-current or yum install nodejs-current
+-require node >= v8.x.x
+-check your nodejs version node -v upgrade nodejs
 
-How to run bot for the first time ?
-git clone https://github.com/CarTooonn/alphat-third
-cd alphat-third && npm install
-insert your admin mid in main.js
-npm start
-IMPORTANT
-PLEASE DO npm i FOR THIS UPDATE -> #27/10/2017
+-How to run bot for the first time ?
+-git clone https://github.com/CarTooonn/alphat-third
+-cd alphat-third && npm install
+-insert your admin mid in main.js
+-npm start
+-IMPORTANT
+-PLEASE DO npm i FOR THIS UPDATE -> #27/10/2017
 
-Still work 👷
-CHANGELOG
+-Still work 👷
+-CHANGELOG
 
-Bug fixed (LOG_OUT)
-TO - DO
+-Bug fixed (LOG_OUT)
+-TO - DO
 
-Nothing
-CMD / KEYWORD
-type !key for the keyword
+-Nothing
+-CMD / KEYWORD
+-type !key for the keyword
 
 How to activate AutoLike feature ?
 1. Goto src/bot.js
