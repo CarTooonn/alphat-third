@@ -11,7 +11,7 @@ console.info("\n\
                                  .::                              \n");
 console.info("\n\
 =========================================\n\
-BotName: LINE Alphat JS\n\
+BotName: LINE THIRD JS\n\
 Version: FORKED VERSION\n\
 Thanks to @Alfathdirk @TCR_TEAM\n\
 =========================================\n\
