@@ -101,7 +101,7 @@ class LINE extends LineAPI {
 => !whattime\n\
 => !yousound\n\
 => !youtube\n\
-\n\n# https://line.me/ti/p/~thirdz1  ^_^";
+\n\n# https://line.me/ti/p/~thirdz2  ^_^";
         var that = this;
     }
 
@@ -139,7 +139,7 @@ class LINE extends LineAPI {
 		if(operation.type == 16 && this.stateStatus.salam == 1){//join group
 			let halo = new Message();
 			halo.to = operation.param1;
-			halo.text = "Halo, Salam Kenal ^_^ !";
+			halo.text = "";
 			this._client.sendMessage(0, halo);
 		}
 		
@@ -147,7 +147,7 @@ class LINE extends LineAPI {
 		    let halobos = new Message();
 			halobos.to = operation.param1;
 			halobos.toType = 2;
-			halobos.text = "Halo bos !, selamat datang di group ini bos !";
+			halobos.text = "";
 			this._client.sendMessage(0, halobos);
 		}else if(operation.type == 17 && this.stateStatus.salam == 1){//ada yang join
 			let seq = new Message();
@@ -173,7 +173,7 @@ class LINE extends LineAPI {
 		if(operation.type == 5 && this.stateStatus.salam == 1) {//someone adding me..
             let halo = new Message();
 			halo.to = operation.param1;
-			halo.text = "Creator: https://line.me/ti/p/~thirdz1 ";
+			halo.text = "Creator: https://line.me/ti/p/~thirdz2 ";
 			this._client.sendMessage(0, halo);
         }
 
